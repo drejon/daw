@@ -41,3 +41,8 @@ programación y herramientas que permiten la creación de aplicaciones dinámica
 
 El curso se desarrolla mediante clases teóricas y prácticas, con proyectos
 intermodulares
+
+# Frameworks
+
+Aprenderemos Laravel, React, Angular y Django
+
